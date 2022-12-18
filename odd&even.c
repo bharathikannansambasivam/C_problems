@@ -30,8 +30,7 @@ int main()
  int sum=0;
      sum=sum +input%10; //0 +3 //12 
         input = input/10; //123/10 =12
-       // printf("%d",sum ); 
-      //  printf("\n");
+      
 
         if((sum%2) ==0){
             printf("%d even  Digit Sum \n",sum);
