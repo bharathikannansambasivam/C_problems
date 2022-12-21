@@ -15,7 +15,7 @@ int main()
             scanf("%d", &a[row][column]);
         }
     }
-     printf("the elements are :\n");
+    printf("the elements are :\t");
     for (row = 1; row <= m; row++)
     {
         for (column = 1; column <= n; column++)
