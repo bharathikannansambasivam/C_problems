@@ -7,7 +7,7 @@ int main()
     printf("enter the string \t");
     scanf("%s", str);
     len = strlen(str);
- 
+  
 
     for (i = 0; i < len / 2; i++)
     {
