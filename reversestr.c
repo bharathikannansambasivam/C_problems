@@ -16,5 +16,5 @@ int main()
         str[len -i- 1] = temp;
     
     }
-    printf("After reversing the string :%s", str);
+    printf("After reversing the string :%s", str); 
 }
