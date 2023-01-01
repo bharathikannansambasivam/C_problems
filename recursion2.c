@@ -14,7 +14,7 @@ int show(int n)
         // n = n / 10;
         power = power + 1;
 
-        show(n / 10);
+        show(n / 10); 
     }
     return 0;
 }
